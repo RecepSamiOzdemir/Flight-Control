@@ -1,0 +1,14 @@
+512,1,Ankara,Izmir,09.05.2023,11.11
+518,1,Istanbul,Kars,09.05.2023,14.14
+513,1,Bodrum,Istanbul,10.05.2023,12:30
+175,1,Antalya,Istanbul,10.05.2023,18:00
+514,1,Dalaman,Istanbul,10.05.2023,09:00
+129,1,Izmir,Van,10.05.2023,10:25
+901,0,Ankara,Dusseldorf,09.05.2023,12:15
+902,0,Adana,Kibris,09.05.2023,14:00
+903,0,Izmir,Koln,09.05.2023,15:00
+904,0,Izmir,Bruksel,09.05.2023,10:00
+905,0,Bodrum,Londra,10.05.2023,12:30
+906,0,Antalya,Moskova,10.05.2023,18:00
+907,0,Istanbul,Pekin,10.05.2023,09:00
+908,0,Istanbul,Detroit,10.05.2023,13.13
